@@ -1,4 +1,4 @@
-# Teste Panvel — Lista de Compras
+#Lista de Compras
 
 Dois exercícios resolvidos de forma independente, cada um em sua própria pasta.
 
